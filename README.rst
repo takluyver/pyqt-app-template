@@ -3,7 +3,7 @@ This is a template for a PyQt4 application
 To get started::
 
     pip install cookiecutter
-    cookiecutter ...
+    cookiecutter https://github.com/takluyver/pyqt-app-template
 
 This will prompt you for some values, and create a new directory using the
 repo_name you give it. Inside that directory, you can do
